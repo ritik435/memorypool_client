@@ -5,6 +5,7 @@
 You can save your memories on this application .
 
 Technologies used : MERN ( mongoDB, ExpressJs, ReactJs, NodeJs ) .
+THis repository includes client side of the project.
 
 Deployed link : https://memorypool.netlify.app/
 
