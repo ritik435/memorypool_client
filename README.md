@@ -2,7 +2,8 @@
 
 **MERN application** :
 
-You can save your memories on this reactJs application
+You can save your memories on this application .
+
 Technologies used : MERN ( mongoDB, ExpressJs, ReactJs, NodeJs ) .
 
 Deployed link : https://memorypool.netlify.app/
