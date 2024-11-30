@@ -1,8 +1,9 @@
 # Memory Pool
 
-**Getting Started with Create React App** :
+**MERN application** :
 
 You can save your memories on this reactJs application
+Technologies used : MERN ( mongoDB, ExpressJs, ReactJs, NodeJs ) .
 
 Deployed link : https://memorypool.netlify.app/
 
